@@ -2,7 +2,7 @@
 
 simple api that returns json depends on each country you set params to.
 currently there are only datas for USA, GRB, KOR, and JPN.
-They are collected through scrapping through few websites that posted jokes.
+They are collected scrapping through few websites that posted jokes.
 You can get ISO code through https://countrycode.org/
 
 sample response
