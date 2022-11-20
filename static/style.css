@@ -1,0 +1,21 @@
+body{
+    background-color:#ecfbfb;
+    padding:10vh;
+    font-family:Helvetica, san-serif;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    row-gap:50px;
+    flex-direction:column;
+}
+a{
+    text-decoration:none;
+    color:black;
+    transition:letter-spacing 150ms, color 150ms;
+    transform-origin:center;
+}
+a:hover{
+    letter-spacing:0.5rem;
+    color: blue;
+}
+
